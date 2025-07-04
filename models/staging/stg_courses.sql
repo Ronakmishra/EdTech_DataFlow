@@ -27,4 +27,4 @@ final as (
         END as status_of_course -- status of course
     from raw
 )
-select * from final;
+select * from final
