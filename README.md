@@ -27,6 +27,8 @@ We needed to:
 
 **Business/Data Questions:**
 
+> These business/data questions formed the **POC** use cases for this project, which are fully addressed by the dbt models in the repo.
+
 ### **Students Table**
 
 - Calculate age of students
@@ -62,34 +64,31 @@ We needed to:
 
 ## 📦 Project Structure
 
-```
 EdTech_DataFlow/
 │
-├── analyses/                  # SQL or BI analysis scripts
-├── Dataset/                   # Raw data (CSV files)
+├── analyses/ # SQL or BI analysis scripts
+├── Dataset/ # Raw data (CSV files)
 │
-├── DBT-Core-EdTech-Orch/      # Orchestration & pipeline code (Dagster + dbt)
-│   └── dbt_core_EdTech_dataflow/
-│       ├── analyses/          # dbt analysis files
-│       ├── logs/              # (ignored) Log files
-│       ├── macros/            # dbt macros
-│       ├── models/            # dbt models (SQL transformations)
-│       ├── seeds/             # dbt seed data (small CSVs)
-│       ├── snapshots/         # dbt snapshot definitions
-│       ├── target/            # (ignored) dbt build output
-│       ├── tests/             # dbt test definitions
-│       ├── profiles.yml       # dbt credentials (not committed)
-│       ├── dbt_project.yml    # dbt project config
-│       ├── README.md          # Project documentation
-│       ├── my_dagster_project/# Dagster orchestration code (Python)
-│       └── venv/              # (ignored) Python virtual environment
-
-```
+├── DBT-Core-EdTech-Orch/ # Orchestration & pipeline code (Dagster + dbt)
+│ └── dbt_core_EdTech_dataflow/
+│ ├── analyses/ # dbt analysis files
+│ ├── logs/ # (ignored) Log files
+│ ├── macros/ # dbt macros
+│ ├── models/ # dbt models (SQL transformations)
+│ ├── seeds/ # dbt seed data (small CSVs)
+│ ├── snapshots/ # dbt snapshot definitions
+│ ├── target/ # (ignored) dbt build output
+│ ├── tests/ # dbt test definitions
+│ ├── profiles.yml # dbt credentials (not committed)
+│ ├── dbt_project.yml # dbt project config
+│ ├── README.md # Project documentation
+│ ├── my_dagster_project/# Dagster orchestration code (Python)
+│ └── venv/ # (ignored) Python virtual environment
 
 \*Note:
 
 - Outer folders contain analysis scripts and raw data.
-- All pipeline logic and orchestration lives in the `dbt_core_EdTech_dataflow` directory.\*
+- All pipeline logic and orchestration lives in the dbt_core_EdTech_dataflow directory.\*
 
 ---
 
@@ -97,9 +96,9 @@ EdTech_DataFlow/
 
 All raw data is ingested and stored in **Snowflake** tables:
 
-- `students`
-- `enrollments`
-- `courses`
+- students
+- enrollments
+- courses
 
 We use **dbt** to build a modular, layered transformation pipeline:
 
@@ -109,6 +108,14 @@ We use **dbt** to build a modular, layered transformation pipeline:
 Every requirement/question was addressed via specific dbt models, using Jinja and SQL logic
 
 ---
+
+## 📈 dbt Cloud Lineage Graph
+
+Visual lineage of your dbt models as seen in dbt Cloud:
+
+![dbt Cloud Lineage Graph](./dbt_cloud_lineage_graph.png)
+
+--
 
 ## ⚡ Step 2: Automation in dbt Cloud
 
@@ -129,6 +136,52 @@ While dbt Cloud offers its own orchestration, **dbt Core** (the open-source vers
   - Provide pipeline lineage and run logs via the Dagster UI
 
 This setup showcases how any open-source orchestration tool can work with dbt Core to achieve fully automated, production-grade data workflows.
+
+---
+
+## 📈 Lineage Graph
+
+See the lineage of dbt models in the Dagster UI:
+
+![Dagster Lineage Graph](./lineage_graph.png)
+
+---
+
+## ✅ Successful Dagster Run
+
+Example screenshot of a successful Dagster job run:
+
+![Dagster Successful Run](./successful_run.png)
+
+---
+
+## ⏰ Scheduling: Cron Job Setup in Dagster
+
+**Sample Dagster schedule code:**
+[View full code here](./DBT-Core-EdTech-Orch/my_dagster_project/my_dagster_project/schedules.py)
+
+```python
+from dagster_dbt import build_schedule_from_db_selection
+
+from .assets import dbt_core_EdTech_dataflow_dbt_assets
+
+schedules = [
+    build_schedule_from_dbt_selection(
+        [dbt_core_EdTech_dataflow_dbt_assets],
+        job_name="materialize_dbt_models",
+        cron_schedule="5 4 * * sun",
+        dbt_select="fqn:*",
+    ),
+]
+```
+
+---
+
+## 🗓️ Cron Job Appearing in Dagster UI
+
+Screenshot of the cron job as seen in the Dagster Jobs UI:
+
+![Dagster Cron Schedule UI](./cron_job_ui.png)
 
 ---
 
