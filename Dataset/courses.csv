@@ -1,0 +1,501 @@
+COURSE_ID,COURSE_NAME,INSTRUCTOR_NAME,CREDITS,START_DATE,END_DATE
+101,Introduction to AI,Dr. C. Sharma,4,2023-02-15,2023-03-14
+102,Data Science 101,Dr. A. Kumar,4,2023-12-27,2024-03-02
+103,Machine Learning,Dr. C. Sharma,4,2023-09-04,2023-11-09
+104,Cloud Computing,Prof. B. Singh,4,2023-08-01,2023-11-07
+105,Introduction to AI,Prof. D. Patel,4,2023-06-18,2023-09-19
+106,Python Programming,Prof. B. Singh,3,2023-04-06,2023-05-26
+107,Machine Learning,Dr. C. Sharma,4,2023-10-21,2023-12-15
+108,Introduction to AI,Dr. E. Reddy,4,2023-12-21,2024-01-30
+109,Machine Learning,Prof. D. Patel,4,2023-02-20,2023-04-09
+110,Introduction to AI,Dr. E. Reddy,3,2023-08-24,2023-12-02
+111,Python Programming,Dr. A. Kumar,4,2023-12-05,2024-01-24
+112,Introduction to AI,Dr. E. Reddy,4,2023-01-09,2023-03-24
+113,Python Programming,Prof. B. Singh,3,2023-01-14,2023-04-02
+114,Data Science 101,Dr. E. Reddy,4,2023-06-19,2023-09-21
+115,Python Programming,Prof. B. Singh,3,2023-11-07,2024-01-26
+116,Python Programming,Dr. C. Sharma,4,2023-08-31,2023-12-03
+117,Cloud Computing,Dr. E. Reddy,4,2023-10-09,2023-12-15
+118,Cloud Computing,Prof. D. Patel,3,2023-01-20,2023-04-13
+119,Machine Learning,Prof. B. Singh,4,2023-06-18,2023-08-26
+120,Machine Learning,Prof. D. Patel,4,2023-06-15,2023-08-10
+121,Machine Learning,Dr. C. Sharma,4,2023-03-17,2023-04-24
+122,Introduction to AI,Dr. C. Sharma,4,2023-05-16,2023-07-07
+123,Cloud Computing,Prof. D. Patel,4,2023-12-12,2024-01-11
+124,Machine Learning,Dr. A. Kumar,4,2023-03-08,2023-05-24
+125,Machine Learning,Prof. B. Singh,3,2023-08-05,2023-11-10
+126,Cloud Computing,Dr. E. Reddy,3,2023-10-01,2023-12-26
+127,Python Programming,Dr. E. Reddy,4,2023-04-24,2023-05-19
+128,Cloud Computing,Dr. A. Kumar,3,2023-07-03,2023-08-27
+129,Introduction to AI,Prof. B. Singh,3,2023-04-03,2023-05-09
+130,Introduction to AI,Prof. B. Singh,4,2023-05-21,2023-07-09
+131,Python Programming,Dr. C. Sharma,4,2023-06-26,2023-09-16
+132,Cloud Computing,Dr. A. Kumar,3,2023-02-06,2023-05-04
+133,Introduction to AI,Dr. C. Sharma,3,2023-05-26,2023-08-11
+134,Python Programming,Dr. C. Sharma,4,2023-03-05,2023-05-17
+135,Python Programming,Dr. C. Sharma,4,2023-10-23,2023-12-21
+136,Cloud Computing,Dr. E. Reddy,4,2023-10-28,2023-12-18
+137,Cloud Computing,Prof. B. Singh,3,2023-05-13,2023-06-13
+138,Data Science 101,Prof. D. Patel,4,2023-06-22,2023-07-14
+139,Introduction to AI,Dr. A. Kumar,4,2023-12-03,2024-02-07
+140,Python Programming,Prof. B. Singh,3,2023-05-29,2023-08-13
+141,Introduction to AI,Dr. C. Sharma,3,2023-09-09,2023-11-07
+142,Cloud Computing,Dr. A. Kumar,4,2023-08-06,2023-09-14
+143,Machine Learning,Dr. A. Kumar,4,2023-06-08,2023-07-07
+144,Cloud Computing,Dr. C. Sharma,3,2023-04-26,2023-07-07
+145,Data Science 101,Dr. E. Reddy,3,2023-12-22,2024-03-21
+146,Data Science 101,Dr. E. Reddy,3,2023-02-04,2023-03-27
+147,Cloud Computing,Prof. D. Patel,3,2023-01-17,2023-02-09
+148,Introduction to AI,Dr. A. Kumar,3,2023-08-27,2023-09-19
+149,Data Science 101,Dr. C. Sharma,3,2023-10-28,2024-01-02
+150,Machine Learning,Dr. C. Sharma,3,2023-11-02,2024-01-20
+151,Python Programming,Dr. C. Sharma,4,2023-04-18,2023-06-30
+152,Cloud Computing,Prof. B. Singh,3,2023-08-20,2023-11-02
+153,Data Science 101,Dr. E. Reddy,3,2023-12-25,2024-03-23
+154,Python Programming,Dr. A. Kumar,3,2023-08-14,2023-10-18
+155,Introduction to AI,Dr. C. Sharma,3,2023-01-16,2023-03-12
+156,Machine Learning,Dr. C. Sharma,3,2023-05-14,2023-06-06
+157,Python Programming,Prof. D. Patel,3,2023-04-10,2023-06-17
+158,Python Programming,Prof. B. Singh,3,2023-09-24,2023-11-07
+159,Introduction to AI,Dr. A. Kumar,3,2023-03-22,2023-06-26
+160,Python Programming,Prof. B. Singh,3,2023-04-15,2023-06-25
+161,Python Programming,Dr. E. Reddy,3,2023-03-22,2023-06-24
+162,Introduction to AI,Dr. E. Reddy,3,2023-04-11,2023-06-21
+163,Cloud Computing,Prof. B. Singh,4,2023-06-05,2023-08-17
+164,Cloud Computing,Prof. D. Patel,4,2023-08-31,2023-11-21
+165,Introduction to AI,Prof. D. Patel,3,2023-04-20,2023-07-17
+166,Machine Learning,Prof. D. Patel,3,2023-01-05,2023-03-28
+167,Cloud Computing,Prof. D. Patel,3,2023-06-30,2023-07-25
+168,Python Programming,Prof. B. Singh,3,2023-11-07,2023-12-14
+169,Data Science 101,Dr. E. Reddy,4,2023-07-27,2023-09-19
+170,Python Programming,Dr. C. Sharma,4,2023-11-18,2024-01-24
+171,Data Science 101,Prof. B. Singh,4,2023-08-01,2023-09-30
+172,Cloud Computing,Dr. A. Kumar,3,2023-03-08,2023-05-14
+173,Machine Learning,Dr. C. Sharma,3,2023-11-10,2024-02-03
+174,Python Programming,Dr. A. Kumar,4,2023-12-05,2024-02-19
+175,Machine Learning,Dr. A. Kumar,4,2023-07-12,2023-09-26
+176,Machine Learning,Dr. A. Kumar,4,2023-01-22,2023-04-25
+177,Data Science 101,Dr. C. Sharma,4,2023-03-01,2023-04-26
+178,Python Programming,Prof. D. Patel,4,2023-06-06,2023-08-22
+179,Python Programming,Dr. A. Kumar,3,2023-12-04,2024-02-14
+180,Python Programming,Dr. C. Sharma,4,2023-10-04,2024-01-06
+181,Python Programming,Dr. E. Reddy,4,2023-04-18,2023-06-18
+182,Data Science 101,Dr. C. Sharma,3,2023-09-08,2023-12-12
+183,Introduction to AI,Dr. E. Reddy,4,2023-12-13,2024-03-10
+184,Machine Learning,Prof. B. Singh,3,2023-09-11,2023-11-29
+185,Python Programming,Dr. A. Kumar,3,2023-06-11,2023-07-16
+186,Introduction to AI,Dr. E. Reddy,3,2023-12-04,2024-01-17
+187,Machine Learning,Dr. C. Sharma,4,2023-01-21,2023-03-18
+188,Data Science 101,Prof. B. Singh,4,2023-06-08,2023-08-24
+189,Data Science 101,Dr. E. Reddy,3,2023-08-02,2023-09-01
+190,Data Science 101,Dr. E. Reddy,3,2023-08-24,2023-10-13
+191,Python Programming,Prof. D. Patel,4,2023-11-01,2024-01-26
+192,Cloud Computing,Prof. D. Patel,4,2023-03-20,2023-06-25
+193,Data Science 101,Prof. B. Singh,3,2023-09-10,2023-12-11
+194,Machine Learning,Prof. D. Patel,3,2023-11-05,2023-12-15
+195,Introduction to AI,Dr. A. Kumar,4,2023-11-27,2024-01-11
+196,Introduction to AI,Dr. C. Sharma,4,2023-03-20,2023-04-15
+197,Data Science 101,Prof. D. Patel,4,2023-02-26,2023-03-28
+198,Python Programming,Dr. E. Reddy,3,2023-05-03,2023-07-21
+199,Introduction to AI,Dr. A. Kumar,4,2023-11-06,2024-01-27
+200,Python Programming,Dr. A. Kumar,3,2023-01-25,2023-03-05
+201,Data Science 101,Dr. E. Reddy,4,2023-09-02,2023-11-14
+202,Machine Learning,Dr. E. Reddy,3,2023-08-11,2023-11-06
+203,Introduction to AI,Dr. C. Sharma,4,2023-06-04,2023-07-03
+204,Data Science 101,Dr. C. Sharma,3,2023-02-06,2023-03-10
+205,Cloud Computing,Dr. E. Reddy,3,2023-10-19,2023-11-08
+206,Data Science 101,Prof. D. Patel,3,2023-04-02,2023-06-01
+207,Introduction to AI,Prof. D. Patel,4,2023-02-07,2023-03-10
+208,Data Science 101,Prof. B. Singh,4,2023-01-09,2023-02-01
+209,Machine Learning,Dr. E. Reddy,3,2023-01-13,2023-03-11
+210,Cloud Computing,Prof. B. Singh,3,2023-08-16,2023-11-17
+211,Python Programming,Dr. E. Reddy,4,2023-03-29,2023-07-05
+212,Python Programming,Dr. A. Kumar,4,2023-07-30,2023-10-20
+213,Introduction to AI,Prof. D. Patel,4,2023-01-24,2023-04-14
+214,Data Science 101,Dr. A. Kumar,3,2023-07-10,2023-10-07
+215,Introduction to AI,Dr. C. Sharma,3,2023-04-02,2023-06-10
+216,Data Science 101,Dr. C. Sharma,4,2023-09-24,2023-10-19
+217,Data Science 101,Prof. B. Singh,3,2023-04-10,2023-05-21
+218,Machine Learning,Dr. E. Reddy,4,2023-12-17,2024-03-24
+219,Machine Learning,Dr. E. Reddy,4,2023-07-05,2023-07-26
+220,Machine Learning,Dr. E. Reddy,4,2023-01-20,2023-04-22
+221,Machine Learning,Prof. D. Patel,4,2023-06-07,2023-08-11
+222,Introduction to AI,Prof. B. Singh,4,2023-12-20,2024-02-05
+223,Machine Learning,Prof. D. Patel,3,2023-05-22,2023-07-11
+224,Python Programming,Prof. D. Patel,4,2023-11-11,2023-12-09
+225,Introduction to AI,Prof. D. Patel,3,2023-05-11,2023-06-10
+226,Data Science 101,Dr. A. Kumar,4,2023-10-06,2023-12-17
+227,Introduction to AI,Dr. A. Kumar,3,2023-10-29,2023-12-13
+228,Data Science 101,Dr. E. Reddy,4,2023-01-27,2023-02-20
+229,Introduction to AI,Dr. A. Kumar,3,2023-01-25,2023-03-05
+230,Data Science 101,Dr. C. Sharma,4,2023-01-02,2023-03-18
+231,Data Science 101,Prof. D. Patel,4,2023-12-04,2024-01-19
+232,Introduction to AI,Dr. C. Sharma,4,2023-03-11,2023-05-30
+233,Machine Learning,Dr. A. Kumar,3,2023-06-09,2023-07-01
+234,Python Programming,Dr. C. Sharma,3,2023-07-28,2023-09-30
+235,Data Science 101,Dr. C. Sharma,4,2023-05-03,2023-07-09
+236,Python Programming,Dr. C. Sharma,4,2023-06-10,2023-08-01
+237,Python Programming,Prof. B. Singh,4,2023-04-16,2023-05-24
+238,Machine Learning,Dr. C. Sharma,4,2023-10-24,2023-12-30
+239,Cloud Computing,Dr. A. Kumar,4,2023-12-18,2024-01-12
+240,Introduction to AI,Dr. E. Reddy,4,2023-10-04,2023-10-26
+241,Data Science 101,Prof. D. Patel,4,2023-12-31,2024-02-19
+242,Machine Learning,Dr. C. Sharma,3,2023-05-09,2023-07-12
+243,Python Programming,Dr. E. Reddy,3,2023-01-26,2023-02-23
+244,Introduction to AI,Dr. E. Reddy,3,2023-07-10,2023-10-06
+245,Introduction to AI,Prof. B. Singh,3,2023-06-02,2023-07-26
+246,Machine Learning,Prof. D. Patel,4,2023-03-15,2023-04-23
+247,Python Programming,Dr. E. Reddy,3,2023-03-23,2023-06-29
+248,Machine Learning,Prof. D. Patel,3,2023-02-20,2023-03-19
+249,Introduction to AI,Dr. C. Sharma,4,2023-03-18,2023-05-22
+250,Python Programming,Dr. C. Sharma,3,2023-03-10,2023-04-20
+251,Introduction to AI,Prof. D. Patel,3,2023-10-27,2024-01-14
+252,Introduction to AI,Dr. A. Kumar,4,2023-09-25,2023-11-30
+253,Cloud Computing,Dr. A. Kumar,3,2023-11-11,2024-01-23
+254,Python Programming,Dr. A. Kumar,4,2023-04-01,2023-05-16
+255,Data Science 101,Prof. D. Patel,3,2023-12-09,2024-01-05
+256,Python Programming,Dr. C. Sharma,3,2023-01-25,2023-04-26
+257,Data Science 101,Dr. C. Sharma,3,2023-02-12,2023-04-25
+258,Data Science 101,Dr. C. Sharma,4,2023-04-12,2023-07-03
+259,Cloud Computing,Prof. D. Patel,4,2023-07-12,2023-08-18
+260,Cloud Computing,Dr. E. Reddy,3,2023-10-07,2023-12-30
+261,Machine Learning,Prof. B. Singh,4,2023-03-08,2023-04-26
+262,Data Science 101,Prof. D. Patel,4,2023-12-03,2024-03-03
+263,Cloud Computing,Dr. E. Reddy,4,2023-09-19,2023-12-26
+264,Data Science 101,Prof. D. Patel,4,2023-02-12,2023-03-22
+265,Data Science 101,Dr. A. Kumar,3,2023-01-18,2023-04-15
+266,Data Science 101,Prof. D. Patel,4,2023-11-30,2024-01-14
+267,Python Programming,Dr. A. Kumar,3,2023-12-15,2024-02-19
+268,Python Programming,Prof. D. Patel,3,2023-03-22,2023-04-25
+269,Introduction to AI,Dr. E. Reddy,4,2023-10-07,2023-12-18
+270,Data Science 101,Dr. E. Reddy,4,2023-06-18,2023-07-10
+271,Python Programming,Dr. C. Sharma,4,2023-03-08,2023-05-27
+272,Data Science 101,Dr. C. Sharma,4,2023-01-28,2023-03-04
+273,Cloud Computing,Dr. C. Sharma,3,2023-11-07,2023-12-18
+274,Machine Learning,Prof. D. Patel,4,2023-06-18,2023-09-15
+275,Machine Learning,Dr. E. Reddy,4,2023-05-25,2023-06-16
+276,Python Programming,Dr. C. Sharma,3,2023-12-22,2024-02-17
+277,Python Programming,Dr. E. Reddy,3,2023-05-27,2023-07-24
+278,Cloud Computing,Dr. A. Kumar,3,2023-05-23,2023-08-20
+279,Data Science 101,Dr. A. Kumar,3,2023-12-31,2024-02-19
+280,Cloud Computing,Dr. A. Kumar,3,2023-04-08,2023-05-03
+281,Machine Learning,Dr. A. Kumar,3,2023-04-16,2023-05-28
+282,Machine Learning,Dr. E. Reddy,3,2023-07-12,2023-08-23
+283,Python Programming,Dr. A. Kumar,3,2023-09-30,2023-12-27
+284,Data Science 101,Prof. B. Singh,3,2023-03-05,2023-05-20
+285,Cloud Computing,Dr. C. Sharma,4,2023-09-30,2023-12-22
+286,Introduction to AI,Dr. A. Kumar,3,2023-02-17,2023-05-18
+287,Cloud Computing,Dr. E. Reddy,4,2023-03-30,2023-06-27
+288,Python Programming,Prof. B. Singh,4,2023-07-06,2023-10-13
+289,Machine Learning,Dr. E. Reddy,3,2023-03-12,2023-06-17
+290,Machine Learning,Dr. E. Reddy,4,2023-01-05,2023-03-09
+291,Python Programming,Prof. B. Singh,4,2023-02-27,2023-03-28
+292,Data Science 101,Dr. E. Reddy,4,2023-01-24,2023-03-01
+293,Cloud Computing,Prof. D. Patel,4,2023-08-19,2023-09-27
+294,Machine Learning,Prof. B. Singh,4,2023-07-21,2023-09-06
+295,Introduction to AI,Dr. E. Reddy,4,2023-03-20,2023-06-14
+296,Machine Learning,Dr. E. Reddy,4,2023-08-19,2023-09-11
+297,Python Programming,Prof. D. Patel,3,2023-05-14,2023-07-24
+298,Introduction to AI,Dr. E. Reddy,3,2023-04-04,2023-06-28
+299,Machine Learning,Prof. D. Patel,3,2023-01-06,2023-03-14
+300,Machine Learning,Prof. B. Singh,4,2023-01-20,2023-02-16
+301,Machine Learning,Prof. D. Patel,3,2023-06-19,2023-09-05
+302,Python Programming,Prof. D. Patel,4,2023-01-08,2023-01-29
+303,Cloud Computing,Dr. E. Reddy,3,2023-03-13,2023-04-13
+304,Introduction to AI,Dr. E. Reddy,4,2023-03-09,2023-05-18
+305,Data Science 101,Dr. E. Reddy,3,2023-11-21,2024-02-23
+306,Cloud Computing,Prof. D. Patel,3,2023-05-18,2023-06-19
+307,Python Programming,Prof. D. Patel,3,2023-08-28,2023-10-17
+308,Python Programming,Prof. D. Patel,4,2023-08-25,2023-10-30
+309,Cloud Computing,Prof. B. Singh,4,2023-08-10,2023-10-02
+310,Python Programming,Prof. B. Singh,4,2023-01-25,2023-03-11
+311,Data Science 101,Prof. B. Singh,3,2023-01-13,2023-04-13
+312,Machine Learning,Dr. C. Sharma,4,2023-06-30,2023-09-13
+313,Machine Learning,Prof. D. Patel,4,2023-01-12,2023-02-10
+314,Data Science 101,Prof. B. Singh,4,2023-06-07,2023-06-28
+315,Data Science 101,Dr. C. Sharma,3,2023-06-06,2023-07-21
+316,Machine Learning,Dr. E. Reddy,3,2023-12-31,2024-03-24
+317,Python Programming,Dr. C. Sharma,4,2023-09-15,2023-10-07
+318,Data Science 101,Prof. D. Patel,4,2023-05-04,2023-06-27
+319,Introduction to AI,Prof. D. Patel,4,2023-03-05,2023-04-27
+320,Data Science 101,Dr. A. Kumar,4,2023-10-23,2024-01-29
+321,Cloud Computing,Dr. C. Sharma,3,2023-01-07,2023-02-24
+322,Data Science 101,Dr. C. Sharma,3,2023-02-11,2023-03-18
+323,Introduction to AI,Dr. A. Kumar,4,2023-12-26,2024-03-12
+324,Python Programming,Dr. E. Reddy,3,2023-04-13,2023-06-11
+325,Data Science 101,Prof. B. Singh,3,2023-03-13,2023-04-07
+326,Cloud Computing,Dr. C. Sharma,3,2023-01-14,2023-02-23
+327,Python Programming,Dr. A. Kumar,3,2023-05-02,2023-06-10
+328,Python Programming,Prof. D. Patel,4,2023-09-30,2023-11-25
+329,Cloud Computing,Prof. B. Singh,4,2023-04-01,2023-06-18
+330,Data Science 101,Prof. B. Singh,3,2023-12-18,2024-03-04
+331,Introduction to AI,Dr. C. Sharma,3,2023-01-08,2023-02-27
+332,Data Science 101,Dr. A. Kumar,3,2023-11-29,2024-01-12
+333,Python Programming,Dr. A. Kumar,3,2023-01-03,2023-02-21
+334,Python Programming,Prof. D. Patel,4,2023-10-24,2023-12-01
+335,Data Science 101,Dr. E. Reddy,4,2023-04-28,2023-08-06
+336,Python Programming,Prof. B. Singh,4,2023-05-07,2023-07-13
+337,Python Programming,Dr. C. Sharma,4,2023-06-06,2023-08-19
+338,Machine Learning,Dr. A. Kumar,3,2023-09-06,2023-10-06
+339,Machine Learning,Prof. D. Patel,4,2023-12-26,2024-03-15
+340,Data Science 101,Dr. C. Sharma,4,2023-05-19,2023-07-24
+341,Machine Learning,Dr. A. Kumar,4,2023-06-04,2023-07-24
+342,Cloud Computing,Dr. E. Reddy,3,2023-04-25,2023-07-10
+343,Data Science 101,Prof. B. Singh,4,2023-02-23,2023-04-14
+344,Cloud Computing,Prof. D. Patel,3,2023-03-30,2023-04-24
+345,Introduction to AI,Dr. C. Sharma,4,2023-12-07,2024-01-28
+346,Cloud Computing,Prof. D. Patel,4,2023-06-17,2023-07-25
+347,Python Programming,Dr. E. Reddy,4,2023-04-25,2023-07-07
+348,Python Programming,Dr. A. Kumar,3,2023-11-29,2024-02-10
+349,Machine Learning,Dr. E. Reddy,4,2023-05-27,2023-06-20
+350,Machine Learning,Dr. E. Reddy,3,2023-07-11,2023-09-12
+351,Python Programming,Dr. A. Kumar,4,2023-09-26,2023-10-21
+352,Introduction to AI,Dr. A. Kumar,4,2023-09-09,2023-11-21
+353,Data Science 101,Prof. B. Singh,3,2023-10-23,2024-01-21
+354,Data Science 101,Dr. A. Kumar,4,2023-07-19,2023-08-30
+355,Machine Learning,Prof. D. Patel,3,2023-02-22,2023-04-22
+356,Data Science 101,Dr. A. Kumar,4,2023-01-19,2023-03-08
+357,Machine Learning,Dr. C. Sharma,3,2023-05-20,2023-06-25
+358,Introduction to AI,Prof. B. Singh,3,2023-03-10,2023-05-05
+359,Introduction to AI,Dr. A. Kumar,3,2023-12-30,2024-02-12
+360,Cloud Computing,Dr. E. Reddy,3,2023-07-18,2023-08-14
+361,Data Science 101,Dr. C. Sharma,3,2023-05-15,2023-06-17
+362,Machine Learning,Prof. D. Patel,4,2023-08-01,2023-10-16
+363,Machine Learning,Prof. B. Singh,4,2023-01-05,2023-03-30
+364,Cloud Computing,Prof. B. Singh,4,2023-08-30,2023-12-05
+365,Data Science 101,Prof. D. Patel,3,2023-09-16,2023-10-15
+366,Python Programming,Prof. D. Patel,4,2023-12-19,2024-01-24
+367,Introduction to AI,Dr. C. Sharma,4,2023-09-21,2023-10-13
+368,Python Programming,Dr. C. Sharma,3,2023-12-11,2024-01-03
+369,Data Science 101,Prof. B. Singh,4,2023-02-25,2023-05-09
+370,Cloud Computing,Dr. C. Sharma,4,2023-03-17,2023-05-01
+371,Machine Learning,Dr. E. Reddy,3,2023-11-13,2023-12-27
+372,Machine Learning,Dr. C. Sharma,4,2023-05-15,2023-08-16
+373,Cloud Computing,Prof. D. Patel,4,2023-04-05,2023-05-09
+374,Python Programming,Dr. A. Kumar,3,2023-12-26,2024-02-22
+375,Cloud Computing,Dr. C. Sharma,3,2023-06-04,2023-08-03
+376,Python Programming,Prof. B. Singh,3,2023-07-06,2023-08-15
+377,Machine Learning,Dr. A. Kumar,3,2023-09-16,2023-12-18
+378,Cloud Computing,Dr. C. Sharma,4,2023-05-29,2023-08-10
+379,Machine Learning,Dr. C. Sharma,3,2023-11-23,2024-02-03
+380,Machine Learning,Dr. C. Sharma,4,2023-10-20,2024-01-15
+381,Data Science 101,Dr. E. Reddy,3,2023-08-06,2023-09-26
+382,Introduction to AI,Dr. A. Kumar,3,2023-04-25,2023-07-20
+383,Cloud Computing,Dr. A. Kumar,3,2023-08-21,2023-11-01
+384,Machine Learning,Dr. A. Kumar,4,2023-04-09,2023-06-30
+385,Machine Learning,Prof. B. Singh,4,2023-12-23,2024-02-07
+386,Data Science 101,Dr. A. Kumar,4,2023-03-08,2023-04-13
+387,Python Programming,Dr. E. Reddy,3,2023-12-14,2024-01-30
+388,Cloud Computing,Prof. B. Singh,4,2023-12-28,2024-03-08
+389,Cloud Computing,Prof. B. Singh,4,2023-11-15,2023-12-06
+390,Cloud Computing,Prof. D. Patel,3,2023-05-24,2023-08-12
+391,Introduction to AI,Dr. A. Kumar,4,2023-08-03,2023-09-21
+392,Introduction to AI,Dr. C. Sharma,3,2023-10-08,2023-12-19
+393,Cloud Computing,Prof. D. Patel,3,2023-03-14,2023-05-24
+394,Python Programming,Prof. D. Patel,4,2023-10-11,2023-12-21
+395,Machine Learning,Dr. C. Sharma,4,2023-08-10,2023-10-26
+396,Machine Learning,Prof. B. Singh,4,2023-12-24,2024-01-20
+397,Data Science 101,Dr. A. Kumar,4,2023-04-18,2023-05-22
+398,Introduction to AI,Prof. D. Patel,3,2023-06-14,2023-07-16
+399,Python Programming,Dr. E. Reddy,4,2023-04-02,2023-06-26
+400,Introduction to AI,Dr. C. Sharma,4,2023-01-19,2023-04-10
+401,Introduction to AI,Prof. D. Patel,4,2023-07-13,2023-08-23
+402,Data Science 101,Dr. C. Sharma,4,2023-03-01,2023-03-22
+403,Machine Learning,Prof. D. Patel,4,2023-08-08,2023-10-06
+404,Data Science 101,Prof. D. Patel,4,2023-10-18,2023-12-07
+405,Python Programming,Dr. E. Reddy,3,2023-08-19,2023-09-26
+406,Data Science 101,Dr. E. Reddy,4,2023-09-15,2023-11-29
+407,Introduction to AI,Dr. A. Kumar,4,2023-04-28,2023-06-19
+408,Python Programming,Dr. A. Kumar,4,2023-06-03,2023-08-22
+409,Introduction to AI,Dr. C. Sharma,4,2023-01-01,2023-02-23
+410,Introduction to AI,Dr. E. Reddy,3,2023-05-26,2023-07-22
+411,Machine Learning,Prof. B. Singh,3,2023-07-02,2023-09-08
+412,Data Science 101,Dr. C. Sharma,4,2023-08-17,2023-10-17
+413,Python Programming,Dr. E. Reddy,4,2023-05-01,2023-06-18
+414,Machine Learning,Dr. A. Kumar,4,2023-03-31,2023-05-06
+415,Introduction to AI,Dr. E. Reddy,3,2023-07-09,2023-10-08
+416,Machine Learning,Prof. B. Singh,4,2023-04-22,2023-07-01
+417,Cloud Computing,Dr. A. Kumar,3,2023-07-26,2023-09-21
+418,Introduction to AI,Dr. A. Kumar,3,2023-01-04,2023-03-23
+419,Machine Learning,Dr. E. Reddy,4,2023-04-05,2023-05-12
+420,Python Programming,Prof. D. Patel,3,2023-03-27,2023-06-28
+421,Introduction to AI,Dr. E. Reddy,3,2023-04-21,2023-07-14
+422,Cloud Computing,Prof. D. Patel,4,2023-03-29,2023-05-05
+423,Machine Learning,Prof. D. Patel,4,2023-07-29,2023-10-24
+424,Data Science 101,Prof. D. Patel,3,2023-12-05,2023-12-27
+425,Machine Learning,Dr. A. Kumar,3,2023-07-07,2023-10-04
+426,Cloud Computing,Dr. C. Sharma,3,2023-02-19,2023-04-28
+427,Introduction to AI,Prof. D. Patel,3,2023-08-04,2023-10-13
+428,Data Science 101,Dr. E. Reddy,3,2023-07-26,2023-10-20
+429,Introduction to AI,Prof. D. Patel,3,2023-02-28,2023-04-21
+430,Introduction to AI,Prof. B. Singh,4,2023-04-04,2023-05-21
+431,Data Science 101,Dr. C. Sharma,3,2023-02-17,2023-04-14
+432,Python Programming,Dr. C. Sharma,3,2023-05-01,2023-06-02
+433,Python Programming,Dr. C. Sharma,3,2023-08-05,2023-08-26
+434,Machine Learning,Prof. D. Patel,3,2023-11-26,2024-02-18
+435,Machine Learning,Dr. E. Reddy,4,2023-07-13,2023-08-22
+436,Cloud Computing,Dr. A. Kumar,4,2023-04-27,2023-07-18
+437,Introduction to AI,Prof. B. Singh,3,2023-06-23,2023-09-14
+438,Data Science 101,Prof. D. Patel,4,2023-01-04,2023-03-19
+439,Python Programming,Dr. A. Kumar,4,2023-01-02,2023-03-02
+440,Introduction to AI,Dr. A. Kumar,4,2023-05-15,2023-06-05
+441,Data Science 101,Dr. C. Sharma,4,2023-02-27,2023-05-19
+442,Introduction to AI,Dr. C. Sharma,4,2023-08-18,2023-11-11
+443,Machine Learning,Prof. B. Singh,4,2023-09-07,2023-12-16
+444,Machine Learning,Dr. E. Reddy,3,2023-07-19,2023-08-19
+445,Data Science 101,Dr. E. Reddy,4,2023-04-30,2023-05-25
+446,Cloud Computing,Prof. D. Patel,3,2023-12-05,2024-01-13
+447,Machine Learning,Dr. C. Sharma,3,2023-07-10,2023-08-19
+448,Python Programming,Prof. B. Singh,3,2023-11-22,2024-02-04
+449,Data Science 101,Prof. B. Singh,4,2023-04-21,2023-07-28
+450,Cloud Computing,Dr. C. Sharma,4,2023-01-22,2023-03-31
+451,Cloud Computing,Prof. B. Singh,4,2023-01-19,2023-02-23
+452,Cloud Computing,Prof. B. Singh,3,2023-07-20,2023-08-17
+453,Python Programming,Dr. E. Reddy,3,2023-01-02,2023-01-26
+454,Introduction to AI,Dr. A. Kumar,3,2023-06-30,2023-08-13
+455,Machine Learning,Prof. B. Singh,3,2023-01-31,2023-04-22
+456,Introduction to AI,Dr. C. Sharma,3,2023-11-04,2023-12-14
+457,Introduction to AI,Prof. D. Patel,3,2023-02-12,2023-03-22
+458,Python Programming,Dr. A. Kumar,3,2023-03-29,2023-04-20
+459,Cloud Computing,Dr. E. Reddy,4,2023-02-12,2023-04-16
+460,Data Science 101,Dr. C. Sharma,3,2023-09-15,2023-12-01
+461,Cloud Computing,Dr. A. Kumar,4,2023-02-24,2023-05-01
+462,Cloud Computing,Dr. A. Kumar,3,2023-04-07,2023-07-06
+463,Cloud Computing,Dr. E. Reddy,3,2023-10-20,2024-01-26
+464,Data Science 101,Prof. B. Singh,3,2023-03-30,2023-07-05
+465,Python Programming,Dr. E. Reddy,4,2023-07-16,2023-09-27
+466,Cloud Computing,Dr. C. Sharma,4,2023-10-11,2023-12-29
+467,Python Programming,Prof. D. Patel,4,2023-06-25,2023-08-30
+468,Data Science 101,Prof. D. Patel,4,2023-06-25,2023-08-08
+469,Introduction to AI,Dr. C. Sharma,4,2023-05-22,2023-08-01
+470,Introduction to AI,Dr. E. Reddy,4,2023-12-05,2024-02-17
+471,Data Science 101,Prof. D. Patel,4,2023-10-13,2023-12-04
+472,Machine Learning,Dr. E. Reddy,3,2023-09-16,2023-11-18
+473,Introduction to AI,Prof. B. Singh,4,2023-03-23,2023-06-11
+474,Python Programming,Dr. C. Sharma,3,2023-02-07,2023-03-20
+475,Machine Learning,Prof. D. Patel,4,2023-11-13,2024-02-10
+476,Cloud Computing,Prof. D. Patel,4,2023-02-26,2023-04-23
+477,Data Science 101,Dr. A. Kumar,4,2023-08-01,2023-08-27
+478,Introduction to AI,Prof. B. Singh,3,2023-09-11,2023-10-22
+479,Machine Learning,Prof. D. Patel,4,2023-12-22,2024-03-04
+480,Cloud Computing,Prof. D. Patel,4,2023-03-27,2023-06-07
+481,Python Programming,Prof. B. Singh,4,2023-11-13,2023-12-25
+482,Cloud Computing,Dr. A. Kumar,3,2023-02-12,2023-04-04
+483,Introduction to AI,Dr. E. Reddy,4,2023-11-19,2023-12-20
+484,Cloud Computing,Prof. B. Singh,4,2023-03-08,2023-04-26
+485,Python Programming,Dr. A. Kumar,4,2023-11-01,2023-12-10
+486,Python Programming,Prof. D. Patel,3,2023-10-28,2023-12-19
+487,Data Science 101,Dr. A. Kumar,3,2023-05-24,2023-07-25
+488,Data Science 101,Dr. E. Reddy,3,2023-08-02,2023-11-01
+489,Introduction to AI,Dr. A. Kumar,3,2023-04-20,2023-06-17
+490,Introduction to AI,Prof. B. Singh,3,2023-03-24,2023-05-07
+491,Python Programming,Dr. A. Kumar,4,2023-10-12,2023-11-18
+492,Introduction to AI,Prof. D. Patel,4,2023-03-24,2023-05-27
+493,Machine Learning,Dr. E. Reddy,3,2023-12-19,2024-02-22
+494,Cloud Computing,Prof. B. Singh,4,2023-07-29,2023-09-25
+495,Cloud Computing,Dr. C. Sharma,3,2023-01-02,2023-03-12
+496,Introduction to AI,Dr. E. Reddy,3,2023-09-26,2023-10-26
+497,Cloud Computing,Dr. E. Reddy,3,2023-02-02,2023-04-27
+498,Machine Learning,Dr. C. Sharma,3,2023-08-16,2023-10-23
+499,Machine Learning,Dr. C. Sharma,3,2023-06-22,2023-08-06
+500,Python Programming,Prof. D. Patel,4,2023-08-25,2023-09-22
+501,Machine Learning,Prof. D. Patel,4,2023-12-04,2024-02-11
+502,Machine Learning,Prof. B. Singh,4,2023-04-19,2023-07-28
+503,Machine Learning,Prof. B. Singh,4,2023-04-17,2023-06-01
+504,Cloud Computing,Dr. A. Kumar,3,2023-11-29,2024-01-06
+505,Cloud Computing,Prof. D. Patel,3,2023-11-08,2023-12-16
+506,Introduction to AI,Dr. C. Sharma,3,2023-09-13,2023-10-12
+507,Introduction to AI,Prof. D. Patel,4,2023-02-04,2023-03-18
+508,Python Programming,Dr. A. Kumar,4,2023-02-16,2023-04-28
+509,Python Programming,Prof. B. Singh,4,2023-10-09,2023-12-25
+510,Cloud Computing,Prof. D. Patel,4,2023-03-24,2023-06-05
+511,Python Programming,Dr. C. Sharma,3,2023-09-04,2023-11-26
+512,Introduction to AI,Prof. B. Singh,4,2023-05-13,2023-06-09
+513,Python Programming,Dr. C. Sharma,3,2023-10-15,2023-11-04
+514,Cloud Computing,Prof. D. Patel,4,2023-04-17,2023-05-29
+515,Introduction to AI,Dr. A. Kumar,3,2023-08-14,2023-11-14
+516,Python Programming,Prof. B. Singh,3,2023-04-04,2023-05-08
+517,Data Science 101,Prof. D. Patel,4,2023-03-01,2023-05-21
+518,Python Programming,Dr. C. Sharma,3,2023-07-19,2023-10-19
+519,Machine Learning,Dr. C. Sharma,4,2023-10-30,2023-12-15
+520,Python Programming,Dr. A. Kumar,3,2023-10-09,2024-01-14
+521,Machine Learning,Prof. B. Singh,3,2023-08-02,2023-08-28
+522,Cloud Computing,Dr. C. Sharma,3,2023-11-03,2024-01-23
+523,Cloud Computing,Prof. B. Singh,3,2023-05-20,2023-07-10
+524,Python Programming,Prof. B. Singh,4,2023-04-08,2023-06-21
+525,Data Science 101,Prof. D. Patel,4,2023-06-24,2023-09-09
+526,Machine Learning,Dr. A. Kumar,4,2023-03-09,2023-04-11
+527,Data Science 101,Dr. E. Reddy,4,2023-10-09,2024-01-17
+528,Cloud Computing,Dr. A. Kumar,4,2023-02-21,2023-05-14
+529,Machine Learning,Dr. A. Kumar,3,2023-02-08,2023-05-04
+530,Data Science 101,Prof. B. Singh,3,2023-07-30,2023-10-14
+531,Cloud Computing,Dr. E. Reddy,4,2023-07-21,2023-10-28
+532,Machine Learning,Dr. E. Reddy,4,2023-05-05,2023-07-16
+533,Python Programming,Dr. E. Reddy,3,2023-03-04,2023-05-19
+534,Python Programming,Dr. A. Kumar,4,2023-11-05,2024-01-06
+535,Cloud Computing,Prof. B. Singh,4,2023-05-07,2023-05-29
+536,Machine Learning,Dr. E. Reddy,3,2023-04-29,2023-08-05
+537,Machine Learning,Dr. E. Reddy,3,2023-05-04,2023-06-03
+538,Machine Learning,Prof. D. Patel,4,2023-08-12,2023-10-31
+539,Cloud Computing,Prof. B. Singh,4,2023-04-03,2023-07-10
+540,Python Programming,Dr. E. Reddy,3,2023-09-21,2023-11-21
+541,Cloud Computing,Prof. B. Singh,3,2023-05-17,2023-08-25
+542,Introduction to AI,Dr. A. Kumar,3,2023-06-15,2023-08-16
+543,Cloud Computing,Prof. D. Patel,3,2023-02-14,2023-03-07
+544,Machine Learning,Prof. D. Patel,3,2023-05-18,2023-06-11
+545,Python Programming,Dr. C. Sharma,3,2023-08-08,2023-09-15
+546,Introduction to AI,Dr. A. Kumar,4,2023-06-25,2023-08-13
+547,Cloud Computing,Dr. C. Sharma,3,2023-01-10,2023-03-31
+548,Data Science 101,Prof. B. Singh,3,2023-05-15,2023-08-03
+549,Python Programming,Dr. E. Reddy,4,2023-01-10,2023-02-19
+550,Machine Learning,Dr. E. Reddy,3,2023-10-30,2024-01-16
+551,Introduction to AI,Dr. C. Sharma,4,2023-06-10,2023-07-27
+552,Data Science 101,Dr. C. Sharma,3,2023-11-30,2024-01-23
+553,Cloud Computing,Prof. B. Singh,4,2023-08-01,2023-10-21
+554,Introduction to AI,Prof. D. Patel,3,2023-02-21,2023-05-04
+555,Cloud Computing,Prof. B. Singh,4,2023-01-10,2023-04-10
+556,Data Science 101,Dr. E. Reddy,4,2023-12-21,2024-01-30
+557,Python Programming,Dr. E. Reddy,3,2023-02-02,2023-04-30
+558,Python Programming,Prof. D. Patel,3,2023-06-02,2023-08-02
+559,Cloud Computing,Dr. E. Reddy,4,2023-08-17,2023-10-21
+560,Data Science 101,Prof. B. Singh,3,2023-01-20,2023-03-14
+561,Machine Learning,Dr. C. Sharma,4,2023-03-24,2023-04-18
+562,Machine Learning,Dr. E. Reddy,4,2023-04-09,2023-06-25
+563,Python Programming,Prof. B. Singh,3,2023-08-01,2023-09-10
+564,Cloud Computing,Dr. A. Kumar,4,2023-02-04,2023-05-14
+565,Cloud Computing,Prof. D. Patel,4,2023-03-01,2023-04-02
+566,Machine Learning,Dr. C. Sharma,3,2023-05-29,2023-06-23
+567,Machine Learning,Prof. D. Patel,3,2023-06-17,2023-07-07
+568,Data Science 101,Dr. C. Sharma,3,2023-07-04,2023-09-26
+569,Introduction to AI,Prof. D. Patel,4,2023-11-25,2024-02-10
+570,Machine Learning,Dr. C. Sharma,3,2023-04-26,2023-07-08
+571,Introduction to AI,Prof. B. Singh,3,2023-10-21,2023-12-06
+572,Python Programming,Dr. C. Sharma,4,2023-05-17,2023-08-14
+573,Data Science 101,Dr. A. Kumar,3,2023-12-02,2024-01-04
+574,Cloud Computing,Dr. C. Sharma,3,2023-02-16,2023-05-03
+575,Introduction to AI,Prof. B. Singh,3,2023-10-29,2023-12-29
+576,Introduction to AI,Prof. D. Patel,4,2023-02-18,2023-04-30
+577,Machine Learning,Prof. D. Patel,4,2023-12-08,2024-03-01
+578,Data Science 101,Dr. A. Kumar,3,2023-10-22,2023-12-28
+579,Cloud Computing,Dr. E. Reddy,3,2023-05-21,2023-06-13
+580,Python Programming,Prof. B. Singh,4,2023-11-17,2024-01-13
+581,Machine Learning,Dr. C. Sharma,3,2023-06-03,2023-09-01
+582,Machine Learning,Prof. D. Patel,3,2023-06-15,2023-07-30
+583,Machine Learning,Prof. D. Patel,3,2023-11-08,2024-01-01
+584,Data Science 101,Dr. E. Reddy,4,2023-10-10,2024-01-05
+585,Introduction to AI,Prof. D. Patel,4,2023-05-05,2023-06-08
+586,Python Programming,Dr. E. Reddy,3,2023-01-09,2023-02-12
+587,Python Programming,Dr. C. Sharma,4,2023-06-07,2023-08-26
+588,Machine Learning,Dr. E. Reddy,3,2023-06-25,2023-08-03
+589,Python Programming,Prof. D. Patel,3,2023-01-17,2023-02-12
+590,Machine Learning,Prof. D. Patel,4,2023-09-26,2023-12-27
+591,Cloud Computing,Dr. A. Kumar,3,2023-02-10,2023-05-01
+592,Data Science 101,Prof. B. Singh,4,2023-11-01,2023-12-06
+593,Introduction to AI,Dr. E. Reddy,4,2023-07-24,2023-10-26
+594,Machine Learning,Dr. E. Reddy,4,2023-03-17,2023-06-04
+595,Machine Learning,Dr. C. Sharma,3,2023-08-17,2023-10-08
+596,Data Science 101,Dr. E. Reddy,3,2023-04-21,2023-07-19
+597,Cloud Computing,Dr. C. Sharma,4,2023-10-02,2024-01-07
+598,Python Programming,Prof. B. Singh,4,2023-11-20,2024-01-03
+599,Machine Learning,Prof. B. Singh,4,2023-01-11,2023-01-31
+600,Data Science 101,Dr. E. Reddy,4,2023-08-30,2023-09-26
