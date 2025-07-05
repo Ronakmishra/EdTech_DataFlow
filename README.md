@@ -67,6 +67,7 @@ We needed to:
 
 ## 📦 Project Structure
 
+```
 EdTech_DataFlow/
 │
 ├── analyses/ # SQL or BI analysis scripts
@@ -87,6 +88,7 @@ EdTech_DataFlow/
 │ ├── README.md # Project documentation
 │ ├── my_dagster_project/# Dagster orchestration code (Python)
 │ └── venv/ # (ignored) Python virtual environment
+```
 
 \*Note:
 
