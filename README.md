@@ -36,9 +36,6 @@ We needed to:
 - Create full name
 - Flag adult students
 - Days since enrollment
-- Enrollments per course, per month (pivot)
-- Total credits enrolled per student (pivot)
-- Running total of enrollments per student
 
 ### **Courses Table**
 
