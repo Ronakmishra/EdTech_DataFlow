@@ -54,8 +54,14 @@ We needed to:
 | **Transformation** | **dbt**       | Data modeling, transformation, testing, documentation |
 | **Orchestration**  | **Dagster**   | Workflow scheduling, orchestration for dbt Core       |
 | **Automation**     | dbt Cloud     | Built-in scheduling and monitoring (for dbt Cloud)    |
-| **Scheduling**     | Dagster/Cron  | Custom scheduling for dbt Core jobs                   |
+| **Scheduling**     | Dagster       | Custom scheduling for dbt Core jobs                   |
 | **Languages**      | Python, SQL   | Data orchestration and transformation                 |
+
+> **Note:**
+>
+> - **dbt Cloud** offers a managed UI for orchestration, scheduling, and monitoring dbt jobs. We initially automated our pipelines directly in dbt Cloud using its built-in scheduler.
+> - When migrating to **dbt Core** (which does **not** include orchestration or scheduling), we integrated **Dagster** to provide robust workflow orchestration and scheduling via cron.
+> - This demonstrates both managed (dbt Cloud) and open-source (Dagster + dbt Core) orchestration strategies in a modern data stack.
 
 ---
 
